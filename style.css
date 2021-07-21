@@ -263,7 +263,7 @@ figcaption{
 
 /*footer start styling */
 
-@media (max-width: 1400px){
+@media (max-width: 600px){
     .box, .testimonial-container{
         flex-direction: column;
     }
