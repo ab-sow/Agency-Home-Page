@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    width: 1440px;
+    max-width: 1440px;
   
 }
 
@@ -263,7 +263,7 @@ figcaption{
 
 /*footer start styling */
 
-@media (max-width: 600px){
+@media (max-width: 800px){
     .box, .testimonial-container{
         flex-direction: column;
     }
